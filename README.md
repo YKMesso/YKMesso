@@ -4,7 +4,7 @@
 🎓I'm a 4th Year Computer Science Student passionate about software development & data science <br/>
 ⏳ I'm currently building "ValoTrack", a VLR.gg-inspired platform for tracking Valorant esports teams and players. <br/>
 💡 I'm Interested in Android development. <br/>
-⚡ Fun fact is that I hope to get a Nobel Peace Prize one day. <br/>
+⚡ Fun fact is that I hope to get a Nobel Peace Prize in Physics one day. <br/>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/emmanuel-oa) 
